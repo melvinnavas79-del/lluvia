@@ -1,3 +1,3 @@
-# lluvia
+# Mis apps de melvinnavas79@gmail.com
 
-Repo inicializado por Lluvia App Studio. El contenido real llega en el siguiente commit.
+Generadas con Lluvia App Studio.
